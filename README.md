@@ -1,6 +1,7 @@
 # Product Management System
 
-This is a product management system built using Angular, Tailwind CSS, TypeScript, and HTML.
+This project is a simple product management system that allows users to create, read, update, and delete products. It demonstrates the use of Angular for building dynamic web applications, TypeScript for type-safe JavaScript, and HTML for the structure of the web pages. Tailwind CSS is used for styling the application.
+.
 
 ## Project Versions
 
@@ -29,7 +30,7 @@ Follow these steps to set up and run the project locally:
 
 1. **Clone the repository**:
     ```bash
-    git clone <repository-url>
+    git clone git@github.com:MSK-Asif/Product-Management-System.git
     ```
 2. **Navigate to the project directory**:
     ```bash
@@ -49,6 +50,9 @@ ng serve
  ```
 
 ## Contact
-###Md. Shariar Kabir Asif
+
+**Md. Shariar Kabir Asif**
+
 Email: [mdshariarkabirasif@gmail.com](mailto:mdshariarkabirasif@gmail.com)
+
 GitHub: [MSK-Asif](https://github.com/MSK-Asif).
